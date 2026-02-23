@@ -1,5 +1,5 @@
-a = 7
-b = 3
+a = 10
+b = 0
 
 def add (x, y):
     return x+y
